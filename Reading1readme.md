@@ -1,24 +1,10 @@
-Chapter 1 
+When the book was newly published, it found its way into the hands and hearts of children who had read about but never experienced war. Now, sadly, I have heard from young readers who have lost a parent or an older brother in Iraq or Afghanistan. We all know how easy it is, and how futile, to blame and to hate.
 
-Why Are You Running?
-“I’ll race you to the corner, Ellen!” Annemarie adjusted the thick leather pack on her back so that her schoolbooks balanced evenly. “Ready?” She looked at her best friend.
+I think the history of Denmark has much to teach us all.
 
-Ellen made a face. “No,” she said, laughing. “You know I can’t beat you —my legs aren’t as long. Can’t we just walk, like civilized people?” She was a stocky ten-year-old, unlike lanky Annemarie.
+The book has been published in many countries now, translated into countless different languages from Hungarian to Hebrew. Everywhere children are still reading about the integrity that a small Scandinavian population showed almost seventy years ago. Books do change lives, I know; and many readers have told me that Number the Stars changed theirs when they were young, that it made them think about both cruelty and courage. “It was something that shaped my idea of how people should be treated,” wrote a young woman recently, recalling her own fourth grade experience with the book.
 
-“We have to practice for the athletic meet on Friday—I know I’m going to win the girls’ race this week. I was second last week, but I’ve been practicing every day. Come on, Ellen,” Annemarie pleaded, eyeing the distance to the next corner of the Copenhagen street. “Please?”
-
-Ellen hesitated, then nodded and shifted her own rucksack of books against her shoulders. “Oh, all right. Ready,” she said.
-
-“Go!” shouted Annemarie, and the two girls were off, racing along the residential sidewalk. Annemarie’s silvery blond hair flew behind her, and Ellen’s dark pigtails bounced against her shoulders.
-
-“Wait for me!” wailed little Kirsti, left behind, but the two older girls weren’t listening.
-
-Annemarie outdistanced her friend quickly, even though one of her shoes came untied as she sped along the street called Østerbrogade, past the small shops and cafés of her neighborhood here in northeast Copenhagen. Laughing, she skirted an elderly lady in black who carried a shopping bag made of string. A young woman pushing a baby in a carriage moved aside to make way. The corner was just ahead.
-
-Annemarie looked up, panting, just as she reached the corner. Her laughter stopped. Her heart seemed to skip a beat.
-
-“Halte!” the soldier ordered in a stern voice.
-
+The Danish friend who originally told me the story of her childhood in Copenhagen in 1943, and who became the prototype for the fictional Annemarie, is an old woman now. So am I. We both love thinking of the children reading the story today, coming to it for the first time and
 The German word was as familiar as it was frightening. Annemarie had heard it often enough before, but it had never been directed at her until now.
 Behind her, Ellen also slowed and stopped. Far back, little Kirsti was plodding along, her face in a pout because the girls hadn’t waited for her.
 
