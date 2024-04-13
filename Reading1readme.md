@@ -1,5 +1,6 @@
 Chapter 1 
-**Why Are You Running?
+
+Why Are You Running?
 “I’ll race you to the corner, Ellen!” Annemarie adjusted the thick leather pack on her back so that her schoolbooks balanced evenly. “Ready?” She looked at her best friend.
 
 Ellen made a face. “No,” she said, laughing. “You know I can’t beat you —my legs aren’t as long. Can’t we just walk, like civilized people?” She was a stocky ten-year-old, unlike lanky Annemarie.
