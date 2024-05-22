@@ -54,6 +54,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 - 	To predict CERF levels on the basis of LD measures, lemmatization may be counterproductive because important regarding a learners’ ability to form complex words and to use inflection is lost in the process of lemmatization. 
 
 *4.	Current study*
+
 4.1 Aims and research questions 
 1)	To look at how different operationalizations of what constitutes the basic unit of measurement – the word, the lemma, or the word family – affect the LD measures themselves and the ability of the measures to predict CEFR scores 
 2)	To find out to what extent text length (number of tokens) affected the scores test takers obtained for their essay. 
@@ -64,6 +65,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 (4)	To what extent does the length of the students’ essay contribute to the overall scores for the essays as given by Pearson?
 
 4.2	Methodology 
+
 4.2.1. Participants:
 - The study included 179 adult English learners from 47 countries, with India, Nigeria, Pakistan, and the Philippines. The participants spoke a total of 39 different languages at home, with English being the most frequent.
 - All students had written an essay as part of taking the Pearson Test of English Academic calibrated to the levels of CEFR (from B1 to C2) 
