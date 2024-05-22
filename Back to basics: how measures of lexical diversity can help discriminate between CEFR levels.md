@@ -25,7 +25,7 @@ Section 5: offers a final conclusion and outlook towards the future
  
 -	The key problem with the TTR : “TTR’s for samples of different magnitudes are not directly comparable because of the tendency for the TTR to vary inversely with the size of sample” (Johnson 1944, 2). In other words, the longer the sample, the lower the TTR. 
 
-3)	More recently other measures of LD:
+-	More recently other measures of LD:
 D-value is computed through a series of computations of the Type-Token Ratio (TTR) on samples of different text lengths (typically ranging from 35-50 tokens) after which a random sampling TTR curve is computed (but see McCarthy & Jarvis, 2007, for a critical appraisal of D). 
 - HDD is similar to D but based on the hypergeometric distribution function (Wu 1993). HD-D calculates, for each lexical type in a text, the probability of encountering any of its tokens in a random sample of 42 words drawn from the text (McCarthy and Jarvis 2010, 383). 
 - The measure of textual diversity (MTLD) is calculated as the mean length of sequential word strings in a text that maintain a given TTR value, which McCarthy and Jarvis (2010) have chosen to be 0.720. (MTLD calculates the TTRs in a sentence until the TTR drops to 0.72, at which point the first factor is complete and TTRs are counted from scratch again: as in the following example: of (1.00) the (1.00) people (1.00) by (1.00) the (.800) 
@@ -35,7 +35,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 
 
 
-*3.	What is a type? The issue of lemmatization*
+- What is a type? The issue of lemmatization
 - 	Different Perspectives
 - 	Engber (1995), Lauger(1991) and Jarvis (2002): different inflected forms as a tokens of the same type 
 - Duran et al (2004): Similar with 1) but consider fused forms as separate types 
@@ -43,13 +43,12 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 - 	Laufer and Nation (1995): use word family as the unit of analysis and include all inflected forms as well as derivational forms listed in Nation and Bauer (1993)
 -  Different lemmatization principles result in different LD scores, and there are significant differences between LD scores for text that have been lemmatized and those that have not been lemmatized (Treffers-Daller 2013)
 
-
-2)	Evidence from language processing studies can throw new light on the issues of lemmatization
+- Evidence from language processing studies can throw new light on the issues of lemmatization
 - 	In English, L2 learners do not automatically have productive knowledge of all the derived forms if they master the stem from – not a good idea to consider the derived forms of a word as one type in analyses of LD in L2 learners
 - 	Morphologically complex forms such as frequent and regular past tense forms in-ed, are not always processed through a decompositional process that segments a word into its different morphemes.  
 - 	The L2 learners know there is a link between a root and a derived or an inflected form, and some inflected and derived forms may be stored as unanalyzed whole in memory.
    
-3)	Whether or not lemmatization is appropriate also depends on the aims of the research.
+-	Whether or not lemmatization is appropriate also depends on the aims of the research.
 - To compare lexical ability across typologically different languages as in Treffers-Daller and Korybski (2016)
 - 	To predict CERF levels on the basis of LD measures, lemmatization may be counterproductive because important regarding a learners’ ability to form complex words and to use inflection is lost in the process of lemmatization. 
 
@@ -65,12 +64,12 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 
 4.2	Methodology 
 4.2.1. Participants:
- The study included 179 adult English learners from 47 countries, with India, Nigeria, Pakistan, and the Philippines. The participants spoke a total of 39 different languages at home, with English being the most frequent.
-All students had written an essay as part of taking the Pearson Test of English Academic calibrated to the levels of CEFR (from B1 to C2) 
-50 students were selected whose work was classified as B1, B2 or C1 on the basis of the overall test results. For the C2 level, the number of students included in the study was 29 as there were too few students who had reached this level in the database. 
+- The study included 179 adult English learners from 47 countries, with India, Nigeria, Pakistan, and the Philippines. The participants spoke a total of 39 different languages at home, with English being the most frequent.
+- All students had written an essay as part of taking the Pearson Test of English Academic calibrated to the levels of CEFR (from B1 to C2) 
+- 50 students were selected whose work was classified as B1, B2 or C1 on the basis of the overall test results. For the C2 level, the number of students included in the study was 29 as there were too few students who had reached this level in the database. 
 
 4.2.2 Materials 
-The participants had to write 2 writing topics, each essay ranged from 200 to 300 words, with a mean length of 249.47 words. Pearson provided scores on various discrete variables, including vocabulary and writing scores.
+-The participants had to write 2 writing topics, each essay ranged from 200 to 300 words, with a mean length of 249.47 words. Pearson provided scores on various discrete variables, including vocabulary and writing scores.
 
 4.2.3 Data Treatment
 - Data Format: Prior to analysis, the data was converted to CHAT format and proper names, acronyms, cardinal numbers, and incomprehensible words were marked with an ampersand (&) to exclude them from further analysis. 
@@ -82,38 +81,38 @@ The participants had to write 2 writing topics, each essay ranged from 200 to 30
 
 4.2 Lemmatization 
 two different ways to lemmatize the data. 
-1)	the LEMMA as the unit of analysis. 
-4)	all inflected forms of verbs, nouns and adjectives are considered to be tokens of the same type. 
-5)	work, working, works and worked are considered to be tokens of the same type, but worker and workable are different types, because they are constitute a different lemma: they are derived from the root work through the addition of derivational suffixes
-2)	the WORD FAMILY was chosen as 16 the unit of analysis. 
+- The LEMMA as the unit of analysis.
+- All inflected forms of verbs, nouns and adjectives are considered to be tokens of the same type. 
+-	work, working, works and worked are considered to be tokens of the same type, but worker and workable are different types, because they are constitute a different lemma: they are derived from the root work through the addition of derivational suffixes
+-	the WORD FAMILY was chosen as 16 the unit of analysis
 -all inflected forms and the derived forms up to level 3 in Nation and Bauer (1993) are considered to be tokens of the same type. 
 
-4.3. Results
+**4.3. Results**
 
 4.3.1 The effects of lemmatization on the measures of lexical diversity 
-1) All measures of lexical diversity reported in this study use types as the basic unit of analysis 
-2) When the number of different types is counted on the mor tier, the mean number of types per informant across all CEFR level is 108.72 types (lemma 0)
-3) The two different lemmatized versions are 108.55 (lemma 1) and 101.56 (lemma 2)
-4) The number of types is higher for the unlemmatized version than for the lemmatized versions, but only the different between lemma 0 and lemma 2 and between lemma 1 and lemma 2 are statistically significant. Type account on Lemma 0 and lemma 1 are not significantly different from each other.
-5) If types are counted on the main tier, the number of types in the lemmatized version is lower. The difference between the lemmatized and non-lemmatized versions are not all significant. 
-☞ This study used the counts from the main tier in all calculation. 
+- All measures of lexical diversity reported in this study use types as the basic unit of analysis
+- When the number of different types is counted on the mor tier, the mean number of types per informant across all CEFR level is 108.72 types (lemma 0)
+- The two different lemmatized versions are 108.55 (lemma 1) and 101.56 (lemma 2)
+- The number of types is higher for the unlemmatized version than for the lemmatized versions, but only the different between lemma 0 and lemma 2 and between lemma 1 and lemma 2 are statistically significant. - - Type account on Lemma 0 and lemma 1 are not significantly different from each other.
+- If types are counted on the main tier, the number of types in the lemmatized version is lower. The difference between the lemmatized and non-lemmatized versions are not all significant. 
+- This study used the counts from the main tier in all calculation. 
 
 4.3.2 Lemmatization of LD measures and the CEFR levels 
-1) For TTR, the overall differences between the scores for the three lemmatization principles are statistically different. 
-2) Same true for the Index of Guiraud 
-3) The MTLD is the most powerful one, with an Eta squared values.
-4) Only MTLD discriminated between the B1, B2, C1, C2. 
-5) The scores for D and HD-D only discriminated between the lowest and the highest CEFR levels
-6) Higher Eta squared values for LD measures which did not disambiguate between homographs, which means that making this extra effort was not helpful.
+- For TTR, the overall differences between the scores for the three lemmatization principles are statistically different. 
+- Same true for the Index of Guiraud 
+- The MTLD is the most powerful one, with an Eta squared values.
+- Only MTLD discriminated between the B1, B2, C1, C2. 
+- The scores for D and HD-D only discriminated between the lowest and the highest CEFR levels
+- Higher Eta squared values for LD measures which did not disambiguate between homographs, which means that making this extra effort was not helpful.
 
 4.3.3 LD measures as predictors of CEFR scores
-1) The LD measures correlate strongly and significantly with each other. 
- 2) The strongest correlation was found between HD-D and D
-3) Moderate correlations between the basic LD measures and the Pearson Scores
+- The LD measures correlate strongly and significantly with each other. 
+- The strongest correlation was found between HD-D and D
+- Moderate correlations between the basic LD measures and the Pearson Scores
 : Out of all LD measures, the types correlate most strongly with the overall scores 
 And with the writing score
-4)	Guiraud correlates most strongly with the vocabulary score. 
-5)	MTLD correlates most strongly with the Pearson scores: writing score, overall score, and vocabulary score
+-	Guiraud correlates most strongly with the vocabulary score. 
+-	MTLD correlates most strongly with the Pearson scores: writing score, overall score, and vocabulary score
 
 
 
