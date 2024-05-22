@@ -1,5 +1,4 @@
-##MTLD, vocd-D, and HD-D: A validation study of sophisticated approaches to lexical diversity assessment##
-
+MTLD, vocd-D, and HD-D: A validation study of sophisticated approaches to lexical diversity assessment 
 **Abstract**
 -The main purpose of this study: to examine the validity of the approach to lexical diversity assessment known as the measure of textual lexical diversity (MTLD). 
 -vocd-D, TTR, Maas, Yule’s K, and an HD-D index derived directly from the hypergeometric distribution function. 
@@ -49,7 +48,12 @@ as with the Maas index, McCarthy and Jarvis (2007) showed that one frequency ind
 Given these results, our study includes K as the best representative LD index of the frequency correction type. Regarding K, one further point of interest is highly relevant to the vocd-D calculation. 
 Whereas vocd-D is determined by the sums of probabilities of encountering each type in the text in sample sizes from 35 to 50 tokens, K is determined by the sums of probabilities of encountering each type in the text when the sample size is set to just 2 words. Both indices also involve a scale conversion, but the important point is that they form a continuum, both relying on the hypergeometric distribution, where K’s sample size is set to 2 words and vocd-D’s sample size is set to 35–50 words.
 
-Calculation of MTLD Value
+3.	MTLD 
+-Processing MTLD
+-Partial Factors
+-Forward and Reverse Processing
+
+-Calculation of MTLD Value
  The total number of words in the text is divided by the total factor count. For example, if the text 340 words and the factor count 4.404, then the MTLD value is 77.203. Two such MTLD values are calculated, one for forward processing and one for reverse processing. The mean of the two values is the final MTLD value. 
 Factor Size
  MTLD uses a default factor size of .720. This default factor size is used in the MTLD prototype that features in the Coh-Metrix suite of textual analysis indices and is the factor size used in the engineering studies that have in corporated MTLD 
@@ -65,3 +69,9 @@ CONSTRUCT VALIDITY
 the Measure of Textual Lexical Diversity (MTLD) showed no correlation with text length, suggesting high internal validity, while other indices like TTR, HD-D, vocd-D, Maas, and K did show correlations. 
 MTLD, vocd-D, and Maas were identified as containing unique information, with MTLD and Maas showing incremental validity by distinguishing different text registers in the MJ corpus. 
 MTLD demonstrated divergent validity by correlating negatively with cohesion measures. The findings suggest that MTLD is a robust LD index, though further research is needed to explore its variations and applications across different genres and settings.
+
+Validation Results
+Measure of Textual Lexical Diversity (MTLD) showed no correlation with text length, suggesting high internal validity, while other indices like TTR, HD-D, vocd-D, Maas, and K did show correlations. MTLD, vocd-D, and Maas were identified as containing unique information, with MTLD and Maas showing incremental validity by distinguishing different text registers in the MJ corpus. Additionally, MTLD demonstrated divergent validity by correlating negatively with cohesion measures. The findings suggest that MTLD is a robust LD index, though further research is needed to explore its variations and applications across different genres and settings.
+
+General discussion 
+MTLD, vocd-D (or HD-D), and Maas capture unique LD information, suggesting that a combination of these indices provides a comprehensive assessment of LD across different text registers.
