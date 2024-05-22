@@ -4,7 +4,7 @@
 - Results show that basic measures of LD, such as the number of different words, the TTR (Templin 1957) and the Index of Guiraud (Guiraud 1954) explain more variance in the CEFR levels than sophisticated measures, such as D (Malvern et al. 2004), HD-D (McCarthy and Jarvis 2007) and MTLD (McCarthy 2005) provided text length is kept constant across texts. 
 - A simple count of different words (defined as lemma’s and not as word families) was the best predictor of CEFR levels and explained 22 percent of the variance in overall scores on the Pearson Test of English Academic in essays written by 176 test takers. 
 
-- Keywords: lexical diversity, CEFR, lemmatization, language testing, derivational morphology
+  Keywords: lexical diversity, CEFR, lemmatization, language testing, derivational morphology
 
 *1.	Introduction*
 
