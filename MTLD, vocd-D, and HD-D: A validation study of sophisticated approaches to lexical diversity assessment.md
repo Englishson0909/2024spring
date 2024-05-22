@@ -1,5 +1,7 @@
 MTLD, vocd-D, and HD-D: A validation study of sophisticated approaches to lexical diversity assessment 
+
 **Abstract**
+
 -The main purpose of this study: to examine the validity of the approach to lexical diversity assessment known as the measure of textual lexical diversity (MTLD). 
 -vocd-D, TTR, Maas, Yule’s K, and an HD-D index derived directly from the hypergeometric distribution function. 
 -The comparisons involved assessments of convergent validity, divergent validity, internal validity, and incremental validity. 
@@ -10,6 +12,7 @@ First, MTLD performs well with respect to all four types of validity and is, in 
 - to consider using MTLD, vocd-D (or HD-D), and Maas in their studies, rather than any single index, noting that lexical diversity can be assessed in many ways and each approach may be informative as to the construct under investigation.
 
 *Introduction*
+
 - Lexical diversity (LD): the range of different words used in a text, with a greater range indicating a higher diversity
 - Traditional LD indices, like type-token ratio (TTR), are problematic due to their sensitivity to text length, leading to potentially misleading findings. 
 - Recent methods like vocd-D and the measure of textual lexical diversity (MTLD) claim to assess LD without being affected by text length. 
