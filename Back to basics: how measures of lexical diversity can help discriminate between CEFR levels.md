@@ -1,18 +1,17 @@
-Back to basics: how measures of lexical diversity can help discriminate between CEFR levels
+**Back to basics: how measures of lexical diversity can help discriminate between CEFR levels
 - How measures of lexical diversity (LD) can help discriminate between essays from second language learners of English, whose work has been assessed as belonging to levels B1 to C2 of the Common European Framework of Reference (CEFR). 
 - How different operationalisations of what constitutes a “different word” (type) impact on the LD measures themselves and on their ability to discriminate between CEFR levels. 
 - Results show that basic measures of LD, such as the number of different words, the TTR (Templin 1957) and the Index of Guiraud (Guiraud 1954) explain more variance in the CEFR levels than sophisticated measures, such as D (Malvern et al. 2004), HD-D (McCarthy and Jarvis 2007) and MTLD (McCarthy 2005) provided text length is kept constant across texts. 
 - A simple count of different words (defined as lemma’s and not as word families) was the best predictor of CEFR levels and explained 22 percent of the variance in overall scores on the Pearson Test of English Academic in essays written by 176 test takers. 
 
-Keywords: lexical diversity, CEFR, lemmatization, language testing, derivational morphology
+- Keywords: lexical diversity, CEFR, lemmatization, language testing, derivational morphology
 
 1.	Introduction
 Many researchers are trying to find criterial features whose presence or absence can differentiate between these levels albeit in the understanding that there is a great deal of overlap between levels as well as variability within individuals (Bartning, Martin, and Vedder 2010).
-Researchers working with measures of lexical diversity (LD), that is measures of the range of words deployed in oral or written language, can potentially make an important contribution to this field of research. (lexical diversity measures are often used as a general purpose measure of spoken and written language (Malvern et al. 2004) or as a measure of complexity at the lexical level (Housen, Kuiken, and Vedder 2012).)
-
-how different operationalizations of what constitutes the basic unit of measurement – the word, the lemma or the word family – affect the LD measures themselves and the ability of the measures to predict CEFR scores
-
-flow of this paper: 
+Researchers working with measures of lexical diversity (LD), that is measures of the range of words deployed in oral or written language, can potentially make an important contribution to this field of research.
+- lexical diversity measures are often used as a general purpose measure of spoken and written language (Malvern et al. 2004) or as a measure of complexity at the lexical level (Housen, Kuiken, and Vedder 2012)
+- How different operationalizations of what constitutes the basic unit of measurement – the word, the lemma or the word family – affect the LD measures themselves and the ability of the measures to predict CEFR scores
+- Flow of this paper: 
 section 2: the discussion around the construct and the measurement of LD
 section 3: various ways to define types (different words) in studies of LD. 
 Section 4: the aims and research questions 
@@ -73,12 +72,12 @@ All students had written an essay as part of taking the Pearson Test of English 
 4.2.2 Materials 
 The participants had to write 2 writing topics, each essay ranged from 200 to 300 words, with a mean length of 249.47 words. Pearson provided scores on various discrete variables, including vocabulary and writing scores.
 
-4.2.3 Data Treatment 
-           1) Data Format: Prior to analysis, the data was converted to CHAT format and proper names, acronyms, cardinal numbers, and incomprehensible words were marked with an ampersand (&) to exclude them from further analysis. 
-Spelling Correction: Spelling mistakes were corrected using CHAT conventions to ensure accurate LD calculation. This step is crucial as learners often make spelling errors, which could inflate LD scores if not addressed. 
-Abbreviations: Abbreviations were expanded (e.g., "TV" to "television") to maintain consistency and accuracy in the data. 
-Exclusion of Non-Existing Words: Non-existing words, such as "trustful" or "solutionated," were excluded from analysis without replacement to prevent inaccurate LD calculations. Only a small number (20) of such errors were present in the dataset.
- Error Handling: Wrong uses of existing words and grammatical errors were not corrected to preserve the original data integrity for analysis
+4.2.3 Data Treatment
+- Data Format: Prior to analysis, the data was converted to CHAT format and proper names, acronyms, cardinal numbers, and incomprehensible words were marked with an ampersand (&) to exclude them from further analysis. 
+- Spelling Correction: Spelling mistakes were corrected using CHAT conventions to ensure accurate LD calculation. This step is crucial as learners often make spelling errors, which could inflate LD scores if not addressed. 
+- Abbreviations: Abbreviations were expanded (e.g., "TV" to "television") to maintain consistency and accuracy in the data. 
+- Exclusion of Non-Existing Words: Non-existing words, such as "trustful" or "solutionated," were excluded from analysis without replacement to prevent inaccurate LD calculations. Only a small number (20) of such errors were present in the dataset.
+- Error Handling: Wrong uses of existing words and grammatical errors were not corrected to preserve the original data integrity for analysis
 
 
 4.2 Lemmatization 
