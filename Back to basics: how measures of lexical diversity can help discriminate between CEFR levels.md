@@ -7,6 +7,7 @@
 - Keywords: lexical diversity, CEFR, lemmatization, language testing, derivational morphology
 
 *1.	Introduction*
+
 Many researchers are trying to find criterial features whose presence or absence can differentiate between these levels albeit in the understanding that there is a great deal of overlap between levels as well as variability within individuals (Bartning, Martin, and Vedder 2010).
 Researchers working with measures of lexical diversity (LD), that is measures of the range of words deployed in oral or written language, can potentially make an important contribution to this field of research.
 - lexical diversity measures are often used as a general purpose measure of spoken and written language (Malvern et al. 2004) or as a measure of complexity at the lexical level (Housen, Kuiken, and Vedder 2012)
@@ -35,7 +36,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 
 
 
-- What is a type? The issue of lemmatization
+*3. What is a type? The issue of lemmatization*
 - 	Different Perspectives
 - 	Engber (1995), Lauger(1991) and Jarvis (2002): different inflected forms as a tokens of the same type 
 - Duran et al (2004): Similar with 1) but consider fused forms as separate types 
@@ -53,7 +54,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 - 	To predict CERF levels on the basis of LD measures, lemmatization may be counterproductive because important regarding a learners’ ability to form complex words and to use inflection is lost in the process of lemmatization. 
 
 *4.	Current study*
-- Aims and research questions 
+4.1 Aims and research questions 
 1)	To look at how different operationalizations of what constitutes the basic unit of measurement – the word, the lemma, or the word family – affect the LD measures themselves and the ability of the measures to predict CEFR scores 
 2)	To find out to what extent text length (number of tokens) affected the scores test takers obtained for their essay. 
 3)	Research Questions 
@@ -79,7 +80,7 @@ Subsequently MTLD is obtained by dividing the total number of words by the total
 - Error Handling: Wrong uses of existing words and grammatical errors were not corrected to preserve the original data integrity for analysis
 
 
-4.2 Lemmatization 
+4.2.4 Lemmatization 
 two different ways to lemmatize the data. 
 - The LEMMA as the unit of analysis.
 - All inflected forms of verbs, nouns and adjectives are considered to be tokens of the same type. 
