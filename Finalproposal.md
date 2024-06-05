@@ -1,4 +1,5 @@
-1. 구어와 문어에 나타난 강조부사 very의 코퍼스 기반 분석 (very collocation based analysis/following adjective features )
+1. 구어와 문어에 나타난 강조부사 very의 코퍼스 기반 분석 (very collocation based analysis/following adjective features )/ Ngram? 이 내용을 발전시키자 
+very 뒤에 나오는 형용사의 패턴 찾기 문어와 구어에 대한 차이점 
 2. Frequency comparision between spoken with written text regarding definite article the and a(an) 
 or give? offer? the other expressions meaning giving something sb / challening or demanding 
 3. past and present perfect?
